@@ -34,7 +34,7 @@ function Hero() {
         </motion.p>
 
         {/* Buttons */}
-        <div className="absolute w-[400px] h-[400px] bg-sky-500/20 blur-3xl rounded-full top-1/3 left-1/2 -translate-x-1/2"></div>
+        <div className="flex justify-center gap-4">
           <button className="bg-sky-400 px-6 py-3 rounded-xl text-slate-900 font-semibold hover:scale-105 transition">
             View My Work
           </button>

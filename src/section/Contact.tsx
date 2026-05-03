@@ -1,3 +1,5 @@
+import { motion } from "framer-motion";
+import { container, fadeUp } from "../data/animations";
 function Contact() {
   return (
     <section id="contact" className="py-20 text-center">

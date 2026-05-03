@@ -13,7 +13,6 @@ function Hero() {
           initial={{ opacity: 0, y: -20 }}
           animate={{ opacity: 1, y: 0 }}
         >
-          🟢 Open to new opportunities
         </motion.div>
 
         {/* Name */}

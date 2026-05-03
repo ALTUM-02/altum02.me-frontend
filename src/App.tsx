@@ -1,3 +1,4 @@
+import Background from "./components/Background";
 import About from "./section/About";
 import Contact from "./section/Contact";
 import Hero from "./section/Hero";
@@ -13,6 +14,7 @@ function App() {
       <About />
       <Projects />
       <Contact />
+      <Background />
     </div>
   );
 }

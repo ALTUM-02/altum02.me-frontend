@@ -17,6 +17,3 @@ function App() {
       <Background />
     </div>
   );
-}
-
-export default App;

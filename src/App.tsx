@@ -13,4 +13,10 @@ function App() {
       <Navbar />
       <About />
       <Projects />
-      <Contact
+      <Contact />
+      <Background />
+    </div>
+  );
+}
+
+export default App;

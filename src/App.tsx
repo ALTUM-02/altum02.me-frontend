@@ -1,24 +1,41 @@
+import { motion, useScroll } from "framer-motion";
+
 import Background from "./components/Background";
-import About from "./sections/About";
-import Contact from "./sections/Contact";
-import Hero from "./sections/Hero";
-import Navbar from "./sections/Navbar";
-import Projects from "./sections/Projects";
-import Home from "./sections/Home";
 import CursorGlow from "./components/CursorGlow";
 
+import Navbar from "./sections/Navbar";
+import Hero from "./sections/Hero";
+import Home from "./sections/Home";
+import About from "./sections/About";
+import Projects from "./sections/Projects";
+import Contact from "./sections/Contact";
+
 function App() {
+  const { scrollYProgress } = useScroll(); // 👈 MUST be inside component
+
   return (
-      <div className="bg-white text-black dark:bg-slate-900 dark:text-white transition-colors duration-300">
-      <h1>working</h1>
+    <div className="relative bg-white text-black dark:bg-slate-900 dark:text-white transition-colors duration-300 overflow-hidden">
+
+      {/* 🔥 Scroll Progress Bar */}
+      <motion.div
+        className="fixed top-0 left-0 h-1 bg-sky-400 z-[999]"
+        style={{ scaleX: scrollYProgress }}
+      />
+
+      {/* 🔥 Effects */}
       <CursorGlow />
+      <Background />
+
+      {/* 🔥 Navbar */}
+      <Navbar />
+
+      {/* 🔥 Sections */}
       <Hero />
       <Home />
-      <Navbar />
       <About />
       <Projects />
       <Contact />
-      <Background />
+
     </div>
   );
 }

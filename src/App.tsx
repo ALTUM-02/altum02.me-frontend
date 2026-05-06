@@ -7,7 +7,7 @@ import Projects from "./section/Projects";
 
 function App() {
   return (
-    <div className="bg-slate-900 text-white">
+      <div className="bg-white text-black dark:bg-slate-900 dark:text-white transition-colors duration-300">
       <h1>working</h1>
       <Hero />
       <Navbar />

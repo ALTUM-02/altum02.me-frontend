@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+import Socials from "../components/Socials";
 import { container, fadeUp } from "../data/animations";
 
 function Hero() {
@@ -43,7 +44,9 @@ function Hero() {
             Contact Me
           </button>
         </div>
-
+  
+        {/* Socials */}
+        <Socials />  
       </div>
     </section>
   );

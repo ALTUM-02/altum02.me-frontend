@@ -30,29 +30,28 @@ function Home() {
           </h2>
 
           {/* Description */}
-          <p className="mb-4 leading-relaxed text-transparent bg-clip-text bg-gradient-to-r from-sky-400 via-purple-400 to-pink-400">
-            I'm a software engineering student and full-stack developer focused on building
-            modern, scalable, and user-friendly applications.
+          <p className="text-gray-400 mb-4 leading-relaxed">
+            I'm a software engineering student and full-stack developer
+            focused on building modern, scalable, and user-friendly applications.
             I enjoy turning ideas into real digital solutions that solve everyday problems.
           </p>
 
-          <p className="mb-6 leading-relaxed text-transparent bg-clip-text bg-gradient-to-r from-gray-300 via-slate-400 to-gray-500">
+          <p className="text-gray-400 mb-6 leading-relaxed">
             My experience includes working with web technologies, APIs, and backend systems.
             I am constantly learning and improving my skills to stay updated with modern tools
             and best practices in software development.
           </p>
 
           {/* Mission Card */}
-          <div className="bg-slate-800/50 border border-slate-700 p-6 rounded-xl hover:shadow-lg hover:shadow-sky-500/10 transition">
-            <h3 className="text-transparent bg-clip-text bg-gradient-to-r from-sky-400 to-cyan-300 font-semibold mb-2">
-                 🚀 My Vision
-            </h3>
-
-            <p className="text-gray-400 text-sm leading-relaxed">
+          <div className="bg-slate-800/50 border border-slate-700 p-6 rounded-xl">
+            <h3 className="text-sky-400 font-semibold mb-2">🚀 My Vision</h3>
+            <p className="text-gray-400 text-sm">
               To build impactful software that improves lives, supports businesses,
               and contributes to the growth of technology in my community.
-             </p>
+            </p>
           </div>
+
+        </div>
 
         {/* 🔹 RIGHT SIDE (STATS CARDS) */}
         <div className="grid grid-cols-2 gap-6">

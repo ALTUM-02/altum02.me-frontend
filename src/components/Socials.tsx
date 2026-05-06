@@ -5,7 +5,7 @@ function Socials() {
     <div className="flex justify-center gap-4 mt-10">
 
       <a
-        href="https://github.com/ALTUM02"
+        href="https://github.com/ALTUM-02"
         target="_blank"
         rel="noopener noreferrer"
         className="p-4 rounded-xl border border-slate-700 hover:border-sky-400 hover:text-sky-400 transition"
@@ -23,7 +23,7 @@ function Socials() {
       </a>
 
       <a
-        href="https://twitter.com/MartinGeorge "
+        href="https://twitter.com/Martin George "
         target="_blank"
         rel="noopener noreferrer"
         className="p-4 rounded-xl border border-slate-700 hover:border-sky-400 hover:text-sky-400 transition"
@@ -32,7 +32,7 @@ function Socials() {
       </a>
 
       <a
-        href="mailto:martin249jesus@email.com"
+        href="https://martin249jesus@email.com"
         className="p-4 rounded-xl border border-slate-700 hover:border-sky-400 hover:text-sky-400 transition"
       >
         <FaEnvelope />

@@ -57,7 +57,7 @@ function Home() {
         <div className="grid grid-cols-2 gap-6">
 
           <div className="bg-slate-800/50 p-6 rounded-xl text-center border border-slate-700 hover:scale-105 transition">
-            <h2 className="text-3xl font-bold text-sky-400">10+</h2>
+            <h2 className="text-3xl font-bold text-sky-400">6+</h2>
             <p className="text-gray-400 text-sm">Projects Built</p>
           </div>
 
@@ -67,7 +67,7 @@ function Home() {
           </div>
 
           <div className="bg-slate-800/50 p-6 rounded-xl text-center border border-slate-700 hover:scale-105 transition">
-            <h2 className="text-3xl font-bold text-sky-400">3+</h2>
+            <h2 className="text-3xl font-bold text-sky-400">1+</h2>
             <p className="text-gray-400 text-sm">Years Learning</p>
           </div>
 

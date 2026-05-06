@@ -24,7 +24,7 @@ const Contact = () => {
 
           {/* SOCIAL LINKS */}
           <div className="mt-6 flex gap-4">
-            <a href="https://github.com/ALTUM02" target="_blank" className="hover:text-blue-400 transition">
+            <a href="https://github.com/ALTUM-02" target="_blank" className="hover:text-blue-400 transition">
               GitHub
             </a>
             <a href="https://linkedin.com/Martin George" target="_blank" className="hover:text-blue-400 transition">

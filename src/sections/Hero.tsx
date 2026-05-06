@@ -35,14 +35,14 @@ function Hero() {
         </motion.p>
 
         {/* Buttons */}
-        <div className="flex justify-center gap-4">
-          <button className="bg-sky-400 px-6 py-3 rounded-xl text-slate-900 font-semibold hover:scale-105 transition">
-            View My Work
-          </button>
+        <div className="flex gap-3">
+          <a href="https://github.com/yourproject" target="_blank">
+             GitHub
+          </a>
 
-          <button className="border border-gray-600 px-6 py-3 rounded-xl hover:border-sky-400">
-            Contact Me
-          </button>
+          <a href="https://yourliveapp.com" target="_blank">
+             Live Demo
+          </a>
         </div>
   
         {/* Socials */}

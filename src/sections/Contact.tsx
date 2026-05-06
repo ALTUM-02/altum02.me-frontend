@@ -17,17 +17,17 @@ const Contact = () => {
           </p>
 
           <div className="space-y-3 text-gray-300">
-            <p>📧 Email: yourname@gmail.com</p>
-            <p>📞 Phone: +255 7XX XXX XXX</p>
-            <p>📍 Location: Dar es Salaam, Tanzania</p>
+            <p>📧 Email: martin249jesus@gmail.com</p>
+            <p>📞 Phone: +255 659 853 584</p>
+            <p>📍 Location: Dodoma, Tanzania</p>
           </div>
 
           {/* SOCIAL LINKS */}
           <div className="mt-6 flex gap-4">
-            <a href="https://github.com/" target="_blank" className="hover:text-blue-400 transition">
+            <a href="https://github.com/ALTUM02" target="_blank" className="hover:text-blue-400 transition">
               GitHub
             </a>
-            <a href="https://linkedin.com/" target="_blank" className="hover:text-blue-400 transition">
+            <a href="https://linkedin.com/Martin George" target="_blank" className="hover:text-blue-400 transition">
               LinkedIn
             </a>
             <a href="https://twitter.com/" target="_blank" className="hover:text-blue-400 transition">

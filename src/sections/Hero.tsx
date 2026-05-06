@@ -36,7 +36,7 @@ function Hero() {
 
         {/* Buttons */}
         <div className="flex gap-3">
-          <a href="https://github.com/yourproject" target="_blank">
+          <a href="https://github.com/altum02.me-frontend" target="_blank">
              GitHub
           </a>
 

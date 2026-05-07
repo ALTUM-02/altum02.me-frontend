@@ -95,7 +95,8 @@ export default function Experience() {
             </div>
 
             <p className="text-gray-300 mt-6 leading-relaxed">
-              Developed web applications using React and Django,
+              currently just in learning phase, gaining hands-on experience in full-stack development,
+              by using modern web technologies to build scalable and user-friendly applications, while collaborating with cross-functional teams to deliver impactful software solutions.
             </p>
 
           </div>

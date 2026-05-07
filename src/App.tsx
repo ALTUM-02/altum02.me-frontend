@@ -8,7 +8,7 @@ import Hero from "./sections/Hero";
 import Home from "./sections/Home";
 import About from "./sections/About";
 import Projects from "./sections/Projects";
-
+import Skills from "./components/Skills";
 import Contact from "./sections/Contact";
 import Experience from "./components/Experience";
 
@@ -38,6 +38,8 @@ function App() {
       <Projects />
       <Contact />
       <Experience />
+      <Skills />
+      
     
 
     </div>

@@ -64,8 +64,6 @@ const skills = [
     color: "bg-blue-400",
     icon: <Database size={22} />,
   },
-  {
-    name: "TensorFlow",
 ];
 
 export default function Skills() {

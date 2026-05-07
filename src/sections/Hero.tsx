@@ -31,7 +31,7 @@ function Hero() {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
         >
-          Full-Stack Developer • React • Backend • Mobile
+          Full-Stack Developer | Problem Solver | Creator
         </motion.p>
 
         {/* Buttons */}

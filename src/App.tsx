@@ -1,13 +1,14 @@
 import { motion, useScroll } from "framer-motion";
 
 import Background from "./components/Background";
-import CursorGlow from "./components/CursorGlow";
+import ModernCursor from "./components/ModernCursor";
 
 import Navbar from "./sections/Navbar";
 import Hero from "./sections/Hero";
 import Home from "./sections/Home";
 import About from "./sections/About";
 import Projects from "./sections/Projects";
+
 import Contact from "./sections/Contact";
 
 function App() {
@@ -23,7 +24,7 @@ function App() {
       />
 
       {/* 🔥 Effects */}
-      <CursorGlow />
+      <ModernCursor />
       <Background />
 
       {/* 🔥 Navbar */}
@@ -35,6 +36,7 @@ function App() {
       <About />
       <Projects />
       <Contact />
+    
 
     </div>
   );

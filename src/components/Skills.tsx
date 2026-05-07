@@ -79,7 +79,6 @@ const skills = [
     width: "82%",
     color: "bg-sky-400",
     icon: <Boxes size={22} />,
-  },
 ];
 
 export default function Skills() {

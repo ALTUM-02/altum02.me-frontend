@@ -50,14 +50,7 @@ function Hero() {
             href="https://yourliveapp.com"
             target="_blank"
             rel="noopener noreferrer"
-            className="px-6 py-3 rounded-xl bg-gradient-to-r from-sky-500 to-cyan-400 text-white font-medium hover:scale-105 transition"
-          >
-             Live Preview
-          </a>
-
-        </div>
-
-        <div className="flex justify-center gap-4 mt-6">
+            className="px-6 py
 
           <a
             href="https://github.com/ALTUM-02/altum02.me-frontend"

@@ -52,8 +52,6 @@ const skills = [
     name: "AWS",
     role: "Cloud",
     percentage: "80%",
-    width: "80%",
-    color: "bg-orange-500",
 ];
 
 export default function Skills() {

@@ -62,8 +62,6 @@ const skills = [
     percentage: "85%",
     width: "85%",
     color: "bg-blue-400",
-    icon: <Database size={22} />,
-  },
 ];
 
 export default function Skills() {

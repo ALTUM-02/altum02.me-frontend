@@ -49,10 +49,6 @@ const skills = [
     icon: <Smartphone size={22} />,
   },
   {
-    name: "Android",
-    role: "Mobile",
-  },
-  {
     name: "AWS",
     role: "Cloud",
     percentage: "80%",

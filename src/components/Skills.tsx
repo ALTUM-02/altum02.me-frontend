@@ -60,8 +60,6 @@ const skills = [
     name: "PostgreSQL",
     role: "Database",
     percentage: "85%",
-    width: "85%",
-    color: "bg-blue-400",
 ];
 
 export default function Skills() {

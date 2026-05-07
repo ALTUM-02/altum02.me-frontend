@@ -56,9 +56,6 @@ const skills = [
     color: "bg-orange-500",
     icon: <Cloud size={22} />,
   },
-  {
-    name: "PostgreSQL",
-    role: "Database"
 ];
 
 export default function Skills() {

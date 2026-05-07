@@ -32,6 +32,15 @@ function Socials() {
       </a>
 
       <a
+        href="https://instagram.com/Martin_jesus02"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="p-4 rounded-xl border border-slate-700 hover:border-sky-400 hover:text-sky-400 transition"
+      >
+        <FaInstagram />
+      </a>  
+
+      <a
         href="https://martin249jesus@email.com"
         className="p-4 rounded-xl border border-slate-700 hover:border-sky-400 hover:text-sky-400 transition"
       >

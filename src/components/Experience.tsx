@@ -50,8 +50,8 @@ export default function Experience() {
             </div>
 
             <p className="text-gray-300 mt-6 leading-relaxed">
-              Currently pursuing a degree in Digital Content & Broadcasting Engineering, gaining a strong foundation in multimedia technologies, content creation, and broadcasting principles.
-              al
+              Currently pursuing a degree in Digital Content & Broadcasting Engineering,
+              gaining a strong foundation in multimedia technologies, content creation, and broadcasting principles.
             </p>
 
           </div>

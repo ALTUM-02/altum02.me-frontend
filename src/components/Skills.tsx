@@ -45,7 +45,6 @@ const skills = [
     role: "Mobile",
     percentage: "88%",
     width: "88%",
-    color: "bg-purple-500",
 ];
 
 export default function Skills() {

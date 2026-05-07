@@ -66,7 +66,6 @@ const skills = [
   },
   {
     name: "TensorFlow",
-    role: "AI/ML",
 ];
 
 export default function Skills() {

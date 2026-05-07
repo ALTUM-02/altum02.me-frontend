@@ -43,7 +43,6 @@ const skills = [
   {
     name: "Kotlin",
     role: "Mobile",
-    percentage: "88%",
 ];
 
 export default function Skills() {

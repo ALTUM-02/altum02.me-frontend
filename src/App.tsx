@@ -10,6 +10,7 @@ import About from "./sections/About";
 import Projects from "./sections/Projects";
 
 import Contact from "./sections/Contact";
+import Experience from "./components/Experience";
 
 function App() {
   const { scrollYProgress } = useScroll(); // 👈 MUST be inside component
@@ -36,6 +37,7 @@ function App() {
       <About />
       <Projects />
       <Contact />
+      <Experience />
     
 
     </div>

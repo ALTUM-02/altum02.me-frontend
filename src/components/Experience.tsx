@@ -30,7 +30,7 @@ export default function Experience() {
             </span>
 
             <h3 className="text-3xl font-bold mt-6">
-              Software Engineering Student
+              Digital content&Brodicasting Engineering Student
             </h3>
 
             <h4 className="text-orange-400 mt-2 text-lg">
@@ -40,7 +40,7 @@ export default function Experience() {
             <div className="flex gap-6 mt-4 text-gray-400 text-sm">
               <div className="flex items-center gap-2">
                 <Calendar size={16} />
-                2021 - Present
+                2025- Present
               </div>
 
               <div className="flex items-center gap-2">
@@ -50,8 +50,8 @@ export default function Experience() {
             </div>
 
             <p className="text-gray-300 mt-6 leading-relaxed">
-              Focused on software development, AI/ML, and cloud computing.
-              Built several full-stack applications and AI projects.
+              Currently pursuing a degree in Digital Content & Broadcasting Engineering, gaining a strong foundation in multimedia technologies, content creation, and broadcasting principles.
+              al
             </p>
 
           </div>

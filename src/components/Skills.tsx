@@ -51,7 +51,6 @@ const skills = [
   {
     name: "AWS",
     role: "Cloud",
-    percentage: "80%",
 ];
 
 export default function Skills() {

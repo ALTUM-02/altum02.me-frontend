@@ -46,8 +46,6 @@ const skills = [
     percentage: "88%",
     width: "88%",
     color: "bg-purple-500",
-    icon: <Smartphone size={22} />,
-  },
 ];
 
 export default function Skills() {

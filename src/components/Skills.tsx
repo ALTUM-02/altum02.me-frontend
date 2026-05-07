@@ -69,8 +69,6 @@ const skills = [
     role: "AI/ML",
     percentage: "78%",
     width: "78%",
-    color: "bg-amber-500",
-    icon: <Brain size={22}
 ];
 
 export default function Skills() {

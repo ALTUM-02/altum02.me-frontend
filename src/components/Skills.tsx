@@ -40,8 +40,6 @@ const skills = [
     color: "bg-sky-500",
     icon: <Code2 size={22} />,
   },
-  {
-    name: "Kotlin",
 ];
 
 export default function Skills() {

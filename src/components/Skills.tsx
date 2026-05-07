@@ -54,8 +54,6 @@ const skills = [
     percentage: "80%",
     width: "80%",
     color: "bg-orange-500",
-    icon: <Cloud size={22} />,
-  },
 ];
 
 export default function Skills() {

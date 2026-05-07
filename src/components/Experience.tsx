@@ -71,11 +71,11 @@ export default function Experience() {
           <div className="flex-1 bg-slate-900/70 border border-slate-700 rounded-3xl p-8 hover:border-sky-500 transition">
 
             <span className="px-4 py-1 text-sm rounded-full bg-sky-500/20 text-sky-400">
-              Work
+                Work Experience
             </span>
 
             <h3 className="text-3xl font-bold mt-6">
-              Full-Stack Developer Intern
+              Full-Stack Developer 
             </h3>
 
             <h4 className="text-sky-400 mt-2 text-lg">
@@ -85,7 +85,7 @@ export default function Experience() {
             <div className="flex gap-6 mt-4 text-gray-400 text-sm">
               <div className="flex items-center gap-2">
                 <Calendar size={16} />
-                2023 - 2024
+                2025 - present
               </div>
 
               <div className="flex items-center gap-2">
@@ -96,7 +96,6 @@ export default function Experience() {
 
             <p className="text-gray-300 mt-6 leading-relaxed">
               Developed web applications using React and Django,
-              implemented CI/CD pipelines, and deployed on AWS EC2.
             </p>
 
           </div>

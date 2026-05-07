@@ -74,9 +74,7 @@ const skills = [
   },
   {
     name: "Docker",
-    role: "DevOps",
-    percentage: "82%",
-    width: "82%",
+    role: "DevOps"
 ];
 
 export default function Skills() {

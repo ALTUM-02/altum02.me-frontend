@@ -70,11 +70,7 @@ const skills = [
     percentage: "78%",
     width: "78%",
     color: "bg-amber-500",
-    icon: <Brain size={22} />,
-  },
-  {
-    name: "Docker",
-    role: "DevOps"
+    icon: <Brain size={22}
 ];
 
 export default function Skills() {

@@ -67,8 +67,6 @@ const skills = [
   {
     name: "TensorFlow",
     role: "AI/ML",
-    percentage: "78%",
-    width: "78%",
 ];
 
 export default function Skills() {

@@ -42,7 +42,6 @@ const skills = [
   },
   {
     name: "Kotlin",
-    role: "Mobile",
 ];
 
 export default function Skills() {

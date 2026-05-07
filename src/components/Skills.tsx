@@ -58,8 +58,7 @@ const skills = [
   },
   {
     name: "PostgreSQL",
-    role: "Database",
-    percentage: "85%",
+    role: "Database"
 ];
 
 export default function Skills() {

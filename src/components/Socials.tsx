@@ -1,4 +1,5 @@
-import { FaGithub, FaLinkedin, FaTwitter, FaEnvelope } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaTwitter, FaEnvelope, FaWhatsapp } from "react-icons/fa";
+import { FaInstagram } from "react-icons/fa6";
 
 function Socials() {
   return (
@@ -38,7 +39,16 @@ function Socials() {
         className="p-4 rounded-xl border border-slate-700 hover:border-sky-400 hover:text-sky-400 transition"
       >
         <FaInstagram />
-      </a>  
+      </a> 
+
+      <a
+        href="https://wa.me/255659853584"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="p-4 rounded-xl border border-slate-700 hover:border-sky-400 hover:text-sky-400 transition"
+      >
+        <FaWhatsapp />
+      </a> 
 
       <a
         href="https://martin249jesus@email.com"

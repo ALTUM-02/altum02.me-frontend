@@ -48,9 +48,6 @@ const skills = [
     color: "bg-purple-500",
     icon: <Smartphone size={22} />,
   },
-  {
-    name: "AWS",
-    role: "Cloud",
 ];
 
 export default function Skills() {

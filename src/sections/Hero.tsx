@@ -35,7 +35,7 @@ function Hero() {
         </motion.p>
 
         {/* Buttons */}
-        <div className="flex gap-4 mt-4">
+        <div className="flex justify-center gap-4 mt-6">
 
           <a
             href="https://github.com/ALTUM-02/altum02.me-frontend"
@@ -43,21 +43,6 @@ function Hero() {
             rel="noopener noreferrer"
             className="px-6 py-3 rounded-xl bg-gradient-to-r from-slate-700 to-slate-900 text-white font-medium hover:scale-105 transition"
           >
-             View Code
-          </a>
-
-          <a
-            href="https://yourliveapp.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="px-6 py
-
-          <a
-            href="https://github.com/ALTUM-02/altum02.me-frontend"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="px-6 py-3 rounded-xl bg-gradient-to-r from-slate-700 to-slate-900 text-white font-medium hover:scale-105 transition"
-         >
           View Code
           </a>
 
@@ -66,11 +51,11 @@ function Hero() {
             target="_blank"
             rel="noopener noreferrer"
             className="px-6 py-3 rounded-xl bg-gradient-to-r from-sky-500 to-cyan-400 text-white font-medium hover:scale-105 transition"
-  >
-               Live Preview
+          >
+            Live Preview
           </a>
 
-          </div>
+        </div>
         
         {/* Socials */}
         <Socials />  

@@ -80,7 +80,7 @@ export default function Skills() {
 
               <span className="text-sky-400 font-semibold">
                 {skill.percentage}
-              
+              </span>
 
             </div>
 

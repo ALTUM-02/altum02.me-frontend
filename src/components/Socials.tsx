@@ -41,7 +41,14 @@ function Socials() {
         <FaInstagram />
       </a> 
 
-      
+      <a
+        href="https://wa.me/255659853584"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="p-4 rounded-xl border border-slate-700 hover:border-sky-400 hover:text-sky-400 transition"
+      >
+        <FaWhatsapp />
+      </a> 
 
       <a
         href="https://martin249jesus@email.com"

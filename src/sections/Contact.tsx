@@ -78,12 +78,19 @@ const Contact = () => {
             className="w-full p-3 rounded-lg bg-[#0f172a] border border-gray-600 focus:outline-none focus:border-blue-400"
           ></textarea>
 
-          <button
-            onClick={sendtowhatsapp}
-            className="w-full py-3 rounded-lg bg-linear-to-r from-blue-500 to-purple-600 hover:opacity-90 transition font-semibold"
+          
+          <a
+              href="https://wa.link/9h51ym"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="p-4 rounded-xl border border-slate-700 hover:border-sky-400 hover:text-sky-400 transition"
           >
-            Send Message
-          </button>
+            <button
+              className="w-full py-3 rounded-lg bg-gradient-to-r from-blue-500 to-purple-600 hover:opacity-90 transition font-semibold text-white"
+            >
+              Send Message
+            </button>
+          </a> 
 
           {submitted && (
             <div className="rounded-xl border border-green-500 bg-green-950/80 p-4 text-green-100">

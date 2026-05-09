@@ -79,7 +79,7 @@ const Contact = () => {
           ></textarea>
 
           <button
-            type="submit"
+            onClick={sendtowhatsapp}
             className="w-full py-3 rounded-lg bg-linear-to-r from-blue-500 to-purple-600 hover:opacity-90 transition font-semibold"
           >
             Send Message

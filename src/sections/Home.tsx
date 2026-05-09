@@ -29,7 +29,7 @@ function Home() {
           </h2>
 
           {/* Description */}
-          <p className="text-gray-400 mb-4 leading-relaxed">
+          <p className="text-gray-400 text-xl mb-4 leading-relaxed font-['Zen_Dots']">
             I'm a software engineering student and full-stack developer
             focused on building modern, scalable, and user-friendly applications.
             I enjoy turning ideas into real digital solutions that solve everyday problems.

@@ -51,7 +51,7 @@ function Socials() {
       </a> 
 
       <a
-        href="martin249jesus@email.com"
+        href="https://mail.google.com/mail/u/0/#inbox/FMfcgzQgLjWTDCFsKmHkcjSvjxsbMKDw"
         className="p-4 rounded-xl border border-slate-700 hover:border-sky-400 hover:text-sky-400 transition"
       >
         <FaEnvelope />

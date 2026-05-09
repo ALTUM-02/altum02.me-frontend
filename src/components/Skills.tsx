@@ -1,10 +1,6 @@
 import {
   Code2,
   Database,
-  Cloud,
-  Smartphone,
-  Brain,
-  Boxes,
 } from "lucide-react";
 
 const skills = [

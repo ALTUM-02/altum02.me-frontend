@@ -1,6 +1,5 @@
 import { motion } from "framer-motion";
 import Socials from "../components/Socials";
-import { container, fadeUp } from "../data/animations";
 
 function Hero() {
   return (

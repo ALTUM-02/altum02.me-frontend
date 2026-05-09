@@ -1,4 +1,3 @@
-import React from "react";
 import Socials from "../components/Socials";
 
 const Contact = () => {
@@ -44,7 +43,7 @@ const Contact = () => {
           />
 
           <textarea
-            rows="5"
+            rows={5}
             placeholder="Your Message"
             className="w-full p-3 rounded-lg bg-[#0f172a] border border-gray-600 focus:outline-none focus:border-blue-400"
           ></textarea>

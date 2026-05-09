@@ -1,16 +1,7 @@
-/** @type {import('tailwindcss').Config} */
-export default {
-  darkMode: "class",
-  content: [
-    "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}",
-  ],  
-  theme: {
-    extend: {
-      colors: {
-        "primary": "#38bdf8",
-        "secondary": "#0f172a",
-      },
-    },
-  },
-}
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+
+export default defineConfig({
+  plugins: [react()],
+  base: '/altum-02.github.io/',
+})

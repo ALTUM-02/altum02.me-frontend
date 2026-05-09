@@ -51,7 +51,7 @@ function Socials() {
       </a> 
 
       <a
-        href="mailto:martin249jesus@email.com"
+        href="martin249jesus@email.com"
         className="p-4 rounded-xl border border-slate-700 hover:border-sky-400 hover:text-sky-400 transition"
       >
         <FaEnvelope />

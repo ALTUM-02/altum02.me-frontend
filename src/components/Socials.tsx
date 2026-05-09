@@ -42,7 +42,7 @@ function Socials() {
       </a> 
 
       <a
-        href="https://wa.me/255659853584"
+        href="https://wa.link/9h51ym"
         target="_blank"
         rel="noopener noreferrer"
         className="p-4 rounded-xl border border-slate-700 hover:border-sky-400 hover:text-sky-400 transition"

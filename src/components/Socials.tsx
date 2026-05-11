@@ -61,4 +61,4 @@ function Socials() {
   );
 }
 
-export default Socials;
+export default
